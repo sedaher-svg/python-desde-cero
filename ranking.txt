@@ -1,0 +1,6 @@
+- selene: 30/30 puntos
+- selene: 30/30 puntos
+- pedro: 30/30 puntos
+- print: 30/30 puntos
+- ernesto: 50/50 puntos
+- carlos: 60/60 puntos
